@@ -1,2 +1,2 @@
 # Weather-Data-Analysis
-A program that uses different functions to analyze the given daily surface data.
+Thorughout the whole program, functions were implemented in order to solve different challenges. This file can be accesed in "Term Project.c". 
